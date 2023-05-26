@@ -14,6 +14,7 @@ namespace tarea02.Clases
 
         public void Imprimirdatos()
         {
+            //xd
 
             Console.WriteLine("ingresa tu nombre");
             Nombre = Console.ReadLine();
